@@ -1,4 +1,4 @@
-# pySBA
+# pySBA - Python Bundle Adjustment
 Python Implementation for Simple Bundle Adjustment
 
 
